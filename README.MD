@@ -74,22 +74,9 @@ I invite you to learn more about me and my work at [brandonargel.me](https://bra
 ## 📫 **Contact me**
 
 <div>
-  <!-- Platzi -->
-  <a href="https://platzi.com/p/BrandArgel/" target="_blank">
-    <img height="30" alt="Platzi" title="Platzi" src="https://img.shields.io/badge/Platzi-97c93e?=for-the-badge&logo=platzi&logoColor=white" target="_blank">
-  </a>&nbsp;
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/brandargel/" target="_blank">
+  <a href="https://www.linkedin.com/in/fconunezluna/" target="_blank">
     <img height="30" alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/Linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>&nbsp;
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/brandargel/" target="_blank">
-    <img height="30" alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>&nbsp;
-  <!-- Twitter -->
-  <a href="https://twitter.com/intent/follow?screen_name=BrandArgel" target="_blank">
-    <img height="30" alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
-  </a>&nbsp;
 </div>
 <br />
 
