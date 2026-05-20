@@ -8,12 +8,6 @@ I am an education enthusiast, so I am constantly learning foreign languages like
 
 I invite you to learn more about me and my work at [brandonargel.me](https://brandonargel.me/). You can contact me by email at brandargel@gmail.com in order to develop effective and high-impact web applications. 🚀
 
-[![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrandonArgel&count_private=true&show_icons=true&title_color=16ffe2&icon_color=16ffe2&text_color=cccccc&bg_color=111111&border_radius=10&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Brandon's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonArgel&layout=compact&title_color=16ffe2&icon_color=16ffe2&text_color=ffffff&bg_color=111111&border_radius=10&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Brandon's Stats](https://streak-stats.demolab.com?user=BrandonArgel&theme=dark&background=111111&border=111111&stroke=ffffff&ring=16ffe2&fire=16ffe2&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=16ffe2&sideLabels=16ffe2&dates=ffffff)](https://git.io/streak-stats)
-
 ## 💻 **Tools and Technologies**
 
 <div align="center">
@@ -63,13 +57,9 @@ I invite you to learn more about me and my work at [brandonargel.me](https://bra
 
 </p>
 
-
 ## 🤖 **I want to learn**
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
  -->
-
-## 🏆 **Other stats**
-[![Brandon's GitHub stats](https://github-profile-trophy.vercel.app/?username=brandonargel&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📫 **Contact me**
 
